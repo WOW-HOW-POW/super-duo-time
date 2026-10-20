@@ -1,5 +1,6 @@
 {
     "name": "super duo time!",
+    "version": "0.0.1",
     "description": "cool two player game!",
     "dependencies": {
         "device": "*",
